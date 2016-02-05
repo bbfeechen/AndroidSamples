@@ -1,9 +1,0 @@
-[submodule "SmartRemote/external/BaseApp/FW"]
-	path = SmartRemote/external/BaseApp/FW
-	url = ../src-app-fw
-[submodule "SmartRemote/external/BaseApp/Base"]
-	path = SmartRemote/external/BaseApp/Base
-	url = ../src-app-base
-[submodule "SmartRemote/external/BaseApp/Each"]
-	path = SmartRemote/external/BaseApp/Each
-	url = ../src-app-each
