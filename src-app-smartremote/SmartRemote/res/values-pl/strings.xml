@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Włóż kartę pamięci"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Włóż ponownie kartę pamięci, która była\nw użyciu."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Przetwarzanie..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Łączenie..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Enter &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"Hasło"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"Kod PIN"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Oczekuje Wi-Fi..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Inteligentne zdalne ster."</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Inteligentne\nzdalne ster."</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Można robić zdjęcia kontrolując urządzenie zdalnie za pomocą kompatybilnego smartfonu itd."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"Uzyskiwanie danych fotografowania..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Uzyskanie danych fotografowania nie powiodło się."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Wprowadź kod PIN w podłączonym\nurządzeniu przed upływem 2 minut."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Wprowadź w urządzeniu kod\nPIN podłączanego urządzenia."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"Zezwolić na połączenie z urządzeniem\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"Nie udało połączyć się z powodu\nprzekroczenia limitu czasu."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Uwierzytelnianie i podłączenie Wi-Fi\nDirect nie powiodło się."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Nazwa urządzenia"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Tylko 1 urządzenie może być\npodłączone jednocześnie.\nCzy chcesz zakończyć bieżące\npołączenie i nawiązać nowe\?"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Wystąpił nieoczekiwany błąd."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">"Wprowadź 8 lub 4 cyfrowy numer."</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Ta czynność jest nieprawidłowa."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Aparat w trybie zdalnej obsługi."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Aparat w trybie zdalnej obsługi.\nNie można obsługiwać tego\nurządzenia."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Aparat w trybie zdalnej obsługi z trybem dotykowego AF.\nWciśnij spust migawki do połowy, a następnie go zwolnij, aby anulować."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Smartfon lub tablet może być użyty do zdalnego sterowania.\nUstawienia takie jak przysłona i szybkość migawki mogą być swobodnie zmieniane."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Wbudowany inteligentny pilot"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Wbudowany\ninteligentny pilot"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Użyj smartfona w celu połączenia tego\nurządzenia poprzez sieć Wi-Fi."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Enter &#xE800;Pomoc"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Pomoc"</string>
+</resources>

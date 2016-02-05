@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing1"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing2"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing3"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing4"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing5"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing6"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing7"
+        android:duration="125"
+        />
+    <item
+        android:drawable="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_circleprocessing8"
+        android:duration="125"
+        />
+</animation-list>

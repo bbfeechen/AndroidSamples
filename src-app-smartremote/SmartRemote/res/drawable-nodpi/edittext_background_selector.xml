@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item android:drawable="@android:drawable/p_16_dd_avip_parts_lcd_43_5w_cmn_editbox_focused"
+         android:state_enabled="true"
+         android:state_pressed="false"
+         />
+    <item android:drawable="@android:drawable/p_16_dd_avip_parts_lcd_43_5w_cmn_editbox_focused"
+         android:state_pressed="true"
+         />
+    <item android:drawable="@android:drawable/p_16_dd_avip_parts_lcd_43_5w_cmn_editbox_normal"/>
+
+</selector>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+<!-- @tama paddingTop, paddingBottom, textColor, タッチできちゃったりしないか 要確認 -->
+    <EditText
+        android:id="@+id/nw_parts_pin_2_edittxt"
+   	    android:layout_marginLeft="237px"
+	    android:layout_marginTop="283px"
+        android:layout_width="366px"
+        android:layout_height="50px"
+        style="@style/RESID_FONTSIZE_BIG_L_EDGE_OFF"
+        android:inputType="number"
+        android:maxLength="8"
+        android:maxLines="1"
+        android:paddingLeft="10px"
+        android:cursorVisible="true"
+        android:focusable="true"
+        android:clickable="true"
+        android:gravity="bottom"
+        android:textColor="@color/RESID_FONTSTYLE_STD_NORMAL"
+        android:typeface="univers"
+        android:background="@drawable/edittext_background_selector" />
+
+<!--
+    <EditText
+        android:id="@+id/nw_parts_pin_2_edittxt"
+   	    android:layout_marginLeft="258px"
+	    android:layout_marginTop="328px"
+        android:layout_width="153px"
+        android:layout_height="88px"
+        style="@style/RESID_FONTSIZE_M"
+        android:inputType="number"
+        android:maxLength="8"
+        android:maxLines="1"
+        android:paddingTop="26px"
+        android:paddingBottom="18px"
+        android:cursorVisible="true"
+        android:focusable="true"
+        android:clickable="true"
+        android:textColor="@color/RESID_FONTSTYLE_CMN_BLACK_NO_SKIN"
+        android:typeface="univers"
+        android:gravity="center"
+        android:background="@drawable/edittext_background_selector" />
+ -->
+ </RelativeLayout>

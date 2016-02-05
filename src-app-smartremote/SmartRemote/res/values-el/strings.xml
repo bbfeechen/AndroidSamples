@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Τοποθετήστε κάρτα μνήμης"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Επανεισάγετε την κάρτα μνήμης που\nχρησιμοποιούσατε."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Γίνεται επεξεργασία..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Σύνδεση..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Εισαγ. &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"Κωδ.πρόσ."</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"Κωδικός PIN"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Αναμονή Wi-Fi..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Έξυπνο τηλεχειριστ."</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Έξυπνο\nτηλεχειριστ."</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Μπορείτε να κάνετε λήψη ακίνητων εικόνων με χειρισμό της συσκευής από απόσταση χρησιμοποιώντας ένα συμβατό smartphone κλπ."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"Λήψη δεδομένων λήψης..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Η λήψη δεδομένων λήψης απέτυχε."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Εισαγάγετε τον κωδικό PIN στη\nσυσκευή σύνδεσης εντός 2 λεπτών."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Εισαγάγετε στη συσκευή τον κωδικό\nPIN της συνδεόμενης συσκευής."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"Να επιτραπεί η σύνδ. από τη συσκευή;"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"Δεν ήταν δυνατή η σύνδεση λόγω\nλήξης του χρονικού ορίου."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Ο έλεγχος ταυτότητας και η σύνδεση\nWi-Fi Direct απέτυχαν."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Όνομα συσκευής"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Μόνο 1 συσκευή συνδέεται κάθε φορά.\nΘέλετε να τερματίσετε την τρέχουσα\nσύνδεση και να ξεκινήσετε μια νέα;"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Παρουσιάστηκε μη αναμενόμενο\nσφάλμα."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">"Πληκτρολογήστε έναν 8ψήφιο\nή 4ψήφιο αριθμό."</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Η λειτουργία δεν είναι έγκυρη."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Αυτήν τη στιγμή πραγματοποιείται\nτηλεχειρισμός."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Αυτήν τη στιγμή πραγματοποιείται\nτηλεχειρισμός.\nΔεν είναι δυνατός ο χειρισμός με αυτήν\nτη συσκευή."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Αυτήν τη στιγμή πραγματοποιείται τηλεχειρισμός με χρήση της AF αφής. Πατήστε το κουμπί κλείστρου μέχρι τη μέση και αφήστε το για ακύρωση."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Μπορεί να χρησιμοποιηθεί ένα smartphone ή tablet ως τηλεχειριστήριο. Μπορείτε να αλλάξετε ρυθμίσεις, όπως το διάφραγμα ή την ταχύτητα κλείστρου, όπως επιθυμείτε."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Ενσωμ. έξυπνος τηλεχειρισμός"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Ενσωμ. έξυπνος\nτηλεχειρισμός"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Χειριστείτε το smartphone για σύνδεση\nσε αυτήν τη συσκευή μέσω Wi-Fi."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Εισαγ. &#xE800;Βοήθεια"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Βοήθεια"</string>
+</resources>

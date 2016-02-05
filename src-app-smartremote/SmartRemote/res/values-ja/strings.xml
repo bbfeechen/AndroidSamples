@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"メモリーカードを入れてください"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"前回使用していたメモリーカードを\n入れてください"</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"処理中"</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"接続中"</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;決定 &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"パスワード"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"PINコード"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Wi-Fi 準備中"</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"スマートリモコン"</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"スマート\nリモコン"</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"対応スマートフォンなどで本機を遠隔操作して静止画を撮影できます"</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"撮影データ取得中"</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"撮影データの取得に失敗しました"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"2分以内に、PINコードを相手機器に入\n力してください"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"接続する機器のPINコードを入力してく\nださい"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"この機器からの接続を許可しますか\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"タイムアウトにより接続できませんでした"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Wi-Fi Directの認証/接続に失敗しまし\nた"</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"機器名称"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"同時に接続できる機器は1台です\n現在の接続を終了し、別の接続を開始\nしますか？"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"予期せぬエラーが発生しました"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">"8桁または4桁の数字を入力してください"</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"この操作は無効です"</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"現在遠隔操作中です"</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"現在遠隔操作中です\n本機での操作はできません"</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"現在タッチAFモードで遠隔操作中です\nシャッターボタンを半押しして離すと解除できます"</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"スマートフォンやタブレットをカメラのリモコンとして使用できます\nお好みに合わせて絞りやシャッタースピードなどを設定することができます"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"スマートリモコン内蔵版"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"スマートリモコン\n内蔵版"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"スマートフォンを操作して\n本機にWi-Fi接続してください"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;決定 &#xE800;ヘルプ"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;ヘルプ"</string>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">メモリーカードを入れてください</string>
+</resources>

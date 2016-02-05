@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Inserte tarjeta de memoria"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Reinserte la tarjeta memoria que estaba\nusando."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Procesando..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Conectando..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Intro &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"Cntraseña"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"Código PIN"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Wi-Fi en suspenso..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Mando a dist. inteligente"</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Mando a dist.\ninteligente"</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Puede disparar imágenes fijas controlando el dispositivo a distancia usando un smartphone compatible, etc."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"Obtención de datos de toma..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Fallo al obtener los datos de toma."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Introduzca el código PIN en el\ndispositivo que se conecta en los 2\nminutos siguientes."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Introduzca el código PIN del\ndispositivo que se conecta en el\ndispositivo."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"¿Autorizar conexión desde dispositivo\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"No se pudo conectar debido al tiempo\nde espera."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Error de autenticación y de conexión\nde Wi-Fi Direct."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Nombre Disposit."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Sólo conecte 1 dispositivo a la vez.\n¿Desea terminar la conexión actual y\nempezar una nueva\?"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Se ha producido un error inesperado."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">"Por favor, introduzca un número de 8\n o 4 dígitos."</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Operación no válida."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Actualmente en operación remota."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Actualmente en operación remota.\nNo se puede operar con este\ndispositivo."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Actualmente en operación remota con modo AF táctil.\nPulse el botón del obturador hasta la mitad y suéltelo para cancelar."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Puede utilizar un smartphone o una tableta como mando a distancia.\nPuede establecer ajustes como la abertura o la velocidad obturador como desee."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Mando a distanc. intelig. incrustad."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Mando a distanc.\nintelig. incrustad."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Maneje el smartphone para que se conecte\na este dispositivo por Wi-Fi."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Intro &#xE800;Ayuda"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Ayuda"</string>
+</resources>

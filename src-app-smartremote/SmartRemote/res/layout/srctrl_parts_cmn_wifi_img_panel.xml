@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView
+        android:id="@+id/srctrl_parts_cmn_panel_wifi_img"
+   	    android:layout_marginLeft="469px"
+	    android:layout_marginTop="2px"
+        android:layout_width="64px"
+        android:layout_height="32px"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/p_16_dd_avip_parts_43_5w_cmn_icon_network_netlogo" />
+
+</RelativeLayout>

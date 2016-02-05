@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Insérez carte mémoire"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Réinsérez la carte mémoire que vous\nutilisiez."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Traitement en cours..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Connexion en cours..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Entrer &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"M.d.passe"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"Code PIN"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Wi-Fi en attente..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Comm. à dist. intelligente"</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Comm. à dist.\nintelligente"</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Vous pouvez effectuer des prises de vue d'images fixes en commandant le dispositif à distance en utilisant un téléphone intelligent compatible, etc."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"En cours d'obtention de données de prise de vue..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Échec d'obtention de données de prise de vue."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Veuillez introduire le code PIN dans le\ndispositif à connecter en moins de 2\nminutes."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Veuillez introduire le code PIN du\ndispositif à connecter dans le dispositif."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"Permettre connexion depuis dispositif\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"La connexion a échoué à cause du\ndélai d'attente."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Échec d'authentification et de\nconnexion de Wi-Fi Direct."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Nom du dispositif"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Seul 1 dispositif peut être connecté à la\nfois.\nSouhaitez-vous mettre fin à la connexion\nactuelle et en démarrer une nouvelle\?"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Une erreur inattendue s'est produite."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">""</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Cette opération n'est pas valide."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Actuellement en opération à distance."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Actuellement en opération à distance.\nImpossible d'utiliser ce dispositif."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Actuellement en opération à distance avec le mode AF tactile. Enfoncez le bouton d'obturateur à mi-course et relâchez-le ensuite pour annuler."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Utilisez un téléphone intelligent ou une tablette en tant que commande à distance. Modifiez les réglages tels que l'ouverture et la vitesse d'obturateur à votre guise."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Com. à dist. intell. incorporée"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Com. à dist. intell.\nincorporée"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Utilisez le téléphone intelligent pour vous\nconnecter sur ce dispositif via Wi-Fi."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Entrer &#xE800;Aide"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Aide"</string>
+</resources>

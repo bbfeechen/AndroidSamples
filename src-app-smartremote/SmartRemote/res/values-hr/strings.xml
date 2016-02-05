@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Umetnite memorijsku karticu"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Ponovo umetnite memorijsku karticu\nkoju ste bili koristili."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Obrada..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Spajanje..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Unos &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"Lozinka"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"PIN kod"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Wi-Fi na čekanju..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Daljinsko upravljanje"</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Daljinsko\nupravljanje"</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Fotografije možete snimiti uređajem s daljinskim upravljanjem, pomoću kompatibilnog smartphonea, i sl."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"Prikljupljanje podataka za snimanje..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Prikljupljanje podataka za snimanje nije uspjelo."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Unesite PIN kod u uređaj za povezivanje\nu okviru 2 minute."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Unesite PIN kôd uređaja s kojim se\npovezujete u svoj uređaj."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"Dozvoli konekciju sa uređajem\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"Povezivanje nije uspelo zbog isteka\nvremena."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Provjera autentičnosti i veza značajke\nWi-Fi Direct nije uspjela."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Naziv uređaja"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Samo 1 uređaj može biti spojen\nodjednom. Želite li okončati\ntrenutačnu vezu i spojiti novu\?"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Došlo je do neočekivane pogreške."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">""</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Ova radnja je nevažeća."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Radi na daljinsko upravljanje."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Radi na daljinsko upravljanje.\nNe može se upravljati ovim uređajem."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Radi na daljinsko upravljanje putem AF načina na dodir.\nPritisnite okidač do pola i zatim pustite kako biste poništili radnju."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Za daljinsku kontrolu možete koristiti smartphone ili tablet.\nPostavke poput otvora blende i brzine zatvarača možete mijenjati kako želite."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Dalj. upravljanje ugrađ."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Dalj. upravljanje\nugrađ."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Smartphoneom povežite ovaj uređaj\n putem Wi-Fi veze."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Unos &#xE800;Pomoć"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Pomoć"</string>
+</resources>

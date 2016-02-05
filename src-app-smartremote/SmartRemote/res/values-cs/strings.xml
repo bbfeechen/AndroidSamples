@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="STRID_MSG_NO_MEMCARD" formatted="false">"Vložte paměťovou kartu"</string>
+    <string name="STRID_CAU_PREV_MS_ERROR_ML" formatted="false">"Opět vložte paměťovou kartu,\nkterou jste použili."</string>
+    <string name="STRID_AMC_STR_01176" formatted="false">"Zpracování..."</string>
+    <string name="STRID_AMC_STR_06084" formatted="false">"Připojuji..."</string>
+    <string name="STRID_AMC_STR_06546" formatted="false">"&#xE801;Zadat &#xE80A;&#xE803;"</string>
+    <string name="STRID_CMN_SSID" formatted="false">"SSID"</string>
+    <string name="STRID_CMN_PASSWORD" formatted="false">"Heslo"</string>
+    <string name="STRID_INFO_PIN_CODE" formatted="false">"Kód PIN"</string>
+    <string name="STRID_FUNC_NETWORK_SETTINGS_MSG_WIFI_STANDBY" formatted="false">"Pohotovostní režim Wi-Fi..."</string>
+    <string name="STRID_FUNC_EZREMOTE" formatted="false">"Chytré dálk. ovládání"</string>
+    <string name="STRID_FUNC_EZREMOTE_2L" formatted="false">"Chytré dálk.\novládání"</string>
+    <string name="STRID_FUNC_EZREMOTE_GUIDE" formatted="false">"Můžete pořizovat statické snímky tak, že budete zařízení ovládat dálkově pomocí kompatibilního smartphonu apod."</string>
+    <string name="STRID_FUNC_EZREMOTE_GETTING_PICTURE" formatted="false">"Získávám data snímání..."</string>
+    <string name="STRID_FUNC_EZREMOTE_GET_PICTURE_ERROR" formatted="false">"Nepodařilo se získat data snímání."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PIN_OUTPUT_DSLR" formatted="false">"Do 2 minut\nzadejte kód PIN\nv připojovaném zařízení."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_INPUT_DSLR" formatted="false">"Zadejte prosím v zařízení kód PIN\npřipojovaného zařízení."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBCREQ_DSLR" formatted="false">"Povolit připojení ze zařízení\?"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_TIMEOUT_DSLR" formatted="false">"Připojení se nezdařilo, čas vypršel."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_DIRECT_PBC_ERROR_DSLR" formatted="false">"Autentizace a připojení k Wi-Fi Direct\nbyly neúspěšné."</string>
+    <string name="STRID_CMN_WIFI_DEVICENAME_DSLR" formatted="false">"Název zařízení"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_CHANGEPW_ONE_DSLR" formatted="false">"Najednou může být připojit\npouze 1 zařízení.\nPřejete si ukončit stávající\npřipojení a vytvořit nové\?"</string>
+    <string name="STRID_CMN_MSG_UNFORESEEN_ERROR" formatted="false">"Došlo k neočekávané chybě."</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_ERROR_SWKEY_PIN_DSLR" formatted="false">"Zadejte číslo s 8 nebo 4 číslicemi."</string>
+    <string name="STRID_FUNC_SRPLUS_INVALID_OPERATION" formatted="false">"Tato operace je neplatná."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL" formatted="false">"Právě probíhá dálkové ovládání."</string>
+    <string name="STRID_FUNC_SRPLUS_UNDER_REMOTE_CONTROL2" formatted="false">"Právě probíhá dálkové ovládání.\nNelze použít s tímto zařízením."</string>
+    <string name="STRID_FUNC_SRPLUS_IN_TOUCH_AF_MODE" formatted="false">"Právě probíhá dálkové ovládání s režimem dotykového AF.\nPro zrušení namáčkněte tlačítko spouště a uvolněte je."</string>
+    <string name="STRID_FUNC_SRPLUS_GUIDE" formatted="false">"Jako dálkové ovládání můžete použít smartphone nebo tablet.\nV případě potřeby můžete změnit nastavení, jako je clona nebo čas závěrky."</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED" formatted="false">"Zabudov. chytré dálkové ovládání"</string>
+    <string name="STRID_FUNC_EZREMOTE_EMBEDDED_2L" formatted="false">"Zabudov. chytré\ndálkové ovládání"</string>
+    <string name="STRID_FUNC_SENDTOSMARTPHONE_MSG_WAITING2" formatted="false">"Použijte smartphone pro připojení\nk tomuto zařízení pomocí Wi-Fi."</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_ENTER_HELP" formatted="false">"&#xE801;Zadat &#xE800;Nápověda"</string>
+    <string name="STRID_FUNC_FOOTER_GUIDE_HELP_FOR_SK" formatted="false">"&#xE51B;Nápověda"</string>
+</resources>
